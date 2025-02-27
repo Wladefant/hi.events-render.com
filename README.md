@@ -2,7 +2,7 @@
 
 Deploy [Hi.Events](https://github.com/HiEventsDev/hi.events) with one click on Render.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/HiEventsDev/hi.events-render.com)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Wladefant/hi.events-render.com)
 
 ## 🚀 How to Use
 
